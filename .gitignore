@@ -1,0 +1,46 @@
+# Dependency directory
+node_modules/
+
+artifacts/
+
+build/
+
+cache/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+allFiredEvents
+scTopics
+
+# Coverage directory used by tools like istanbul
+coverage
+coverage.json
+coverageEnv
+
+# lol macs
+.DS_Store/
+
+# truffle
+.node-xmlhttprequest-*
+
+# mochaawesome-reports
+mochawesome-report
+
+# orig git
+*.orig
+
+#compiled contracts
+build/contracts
+
+#enrc
+.envrc
+
+#localhost deployments
+deployments/localhost
+
